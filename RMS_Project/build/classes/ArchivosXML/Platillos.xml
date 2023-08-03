@@ -1,0 +1,23 @@
+<Platillo>
+  <Platillo>
+    <nombre>Pasta con carne molida</nombre>
+    <precio>14.0</precio>
+    <cantidad>5</cantidad>
+    <solicitado>0</solicitado>
+    <tipoPlatillo>Platillo principal</tipoPlatillo>
+  </Platillo>
+  <Platillo>
+    <nombre>Vaso de pepsi</nombre>
+    <precio>5.0</precio>
+    <cantidad>1</cantidad>
+    <solicitado>0</solicitado>
+    <tipoPlatillo>Bebida</tipoPlatillo>
+  </Platillo>
+  <Platillo>
+    <nombre>Cubeta de pollo</nombre>
+    <precio>13.0</precio>
+    <cantidad>2</cantidad>
+    <solicitado>2</solicitado>
+    <tipoPlatillo>Platillo principal</tipoPlatillo>
+  </Platillo>
+</Platillo>

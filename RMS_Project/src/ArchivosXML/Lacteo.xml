@@ -1,0 +1,42 @@
+<Lacteo>
+  <Lacteos>
+    <cantidad>0.0</cantidad>
+    <dia>0</dia>
+    <mes>0</mes>
+    <anio>0</anio>
+    <unidad>L</unidad>
+    <nombre>Lacteo</nombre>
+  </Lacteos>
+  <Lacteos>
+    <cantidad>0.0</cantidad>
+    <dia>0</dia>
+    <mes>0</mes>
+    <anio>0</anio>
+    <unidad>Kg</unidad>
+    <nombre>Queso</nombre>
+  </Lacteos>
+  <Lacteos>
+    <cantidad>0.0</cantidad>
+    <dia>0</dia>
+    <mes>0</mes>
+    <anio>0</anio>
+    <unidad>Kg</unidad>
+    <nombre>Queso blanco</nombre>
+  </Lacteos>
+  <Lacteos>
+    <cantidad>0.0</cantidad>
+    <dia>0</dia>
+    <mes>0</mes>
+    <anio>0</anio>
+    <unidad>Kg</unidad>
+    <nombre>Queso amarillo</nombre>
+  </Lacteos>
+  <Lacteos>
+    <cantidad>0.0</cantidad>
+    <dia>0</dia>
+    <mes>0</mes>
+    <anio>0</anio>
+    <unidad>Kg</unidad>
+    <nombre>Mozzarela</nombre>
+  </Lacteos>
+</Lacteo>

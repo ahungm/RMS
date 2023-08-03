@@ -1,0 +1,20 @@
+<GananciaPerdida>
+  <GananciasPerdidas>
+    <monto>134.0</monto>
+    <tipoGananciaPerdida>Reabastecimiento(Perdida)</tipoGananciaPerdida>
+    <fecha>31/7/2022</fecha>
+    <nombre>Punta trasera</nombre>
+  </GananciasPerdidas>
+  <GananciasPerdidas>
+    <monto>86.0</monto>
+    <tipoGananciaPerdida>Reabastecimiento(Perdida)</tipoGananciaPerdida>
+    <fecha>31/7/2022</fecha>
+    <nombre>Aceite de sesamo</nombre>
+  </GananciasPerdidas>
+  <GananciasPerdidas>
+    <monto>13.0</monto>
+    <tipoGananciaPerdida>Facturacion(Ganancia)</tipoGananciaPerdida>
+    <fecha>31/7/2022</fecha>
+    <nombre>Cubeta de pollo</nombre>
+  </GananciasPerdidas>
+</GananciaPerdida>

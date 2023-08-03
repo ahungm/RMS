@@ -1,0 +1,50 @@
+<IngredientesMenu>
+  <Ingredientes>
+    <nombre>Aceite de sesamo</nombre>
+    <cantidad>1</cantidad>
+    <tipo>Aceite</tipo>
+    <platillo>Pasta con carne molida</platillo>
+  </Ingredientes>
+  <Ingredientes>
+    <nombre>pasta</nombre>
+    <cantidad>1</cantidad>
+    <tipo>Harina y derivado</tipo>
+    <platillo>Pasta con carne molida</platillo>
+  </Ingredientes>
+  <Ingredientes>
+    <nombre>Sal</nombre>
+    <cantidad>1</cantidad>
+    <tipo>Condimento</tipo>
+    <platillo>Pasta con carne molida</platillo>
+  </Ingredientes>
+  <Ingredientes>
+    <nombre>Pimienta</nombre>
+    <cantidad>1</cantidad>
+    <tipo>Condimento</tipo>
+    <platillo>Pasta con carne molida</platillo>
+  </Ingredientes>
+  <Ingredientes>
+    <nombre>Carne molida</nombre>
+    <cantidad>1</cantidad>
+    <tipo>Carne</tipo>
+    <platillo>Pasta con carne molida</platillo>
+  </Ingredientes>
+  <Ingredientes>
+    <nombre>Pepsi</nombre>
+    <cantidad>1</cantidad>
+    <tipo>Gaseosa</tipo>
+    <platillo>Vaso de pepsi</platillo>
+  </Ingredientes>
+  <Ingredientes>
+    <nombre>Aceite de sesamo</nombre>
+    <cantidad>1</cantidad>
+    <tipo>Aceite</tipo>
+    <platillo>Cubeta de pollo</platillo>
+  </Ingredientes>
+  <Ingredientes>
+    <nombre>Muslo de pollo</nombre>
+    <cantidad>2</cantidad>
+    <tipo>Carne</tipo>
+    <platillo>Cubeta de pollo</platillo>
+  </Ingredientes>
+</IngredientesMenu>

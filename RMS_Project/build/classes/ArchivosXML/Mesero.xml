@@ -1,0 +1,29 @@
+<Mesero>
+  <Mesero>
+    <codigo>1532</codigo>
+    <edad>34</edad>
+    <telefono>412025367</telefono>
+    <nombre>Maria</nombre>
+    <apellido>Gomez</apellido>
+    <genero>Femenino</genero>
+    <mesa>0</mesa>
+  </Mesero>
+  <Mesero>
+    <codigo>5903</codigo>
+    <edad>18</edad>
+    <telefono>414456321</telefono>
+    <nombre>Juan</nombre>
+    <apellido>Perez</apellido>
+    <genero>Femenino</genero>
+    <mesa>0</mesa>
+  </Mesero>
+  <Mesero>
+    <codigo>3083</codigo>
+    <edad>23</edad>
+    <telefono>412713902</telefono>
+    <nombre>Mario</nombre>
+    <apellido>Perez</apellido>
+    <genero>Masculino</genero>
+    <mesa>0</mesa>
+  </Mesero>
+</Mesero>

@@ -1,0 +1,34 @@
+<Carne>
+  <Carnes>
+    <cantidad>20.0</cantidad>
+    <dia>35</dia>
+    <mes>8</mes>
+    <anio>2022</anio>
+    <unidad>Kg</unidad>
+    <nombre>Punta trasera</nombre>
+  </Carnes>
+  <Carnes>
+    <cantidad>0.0</cantidad>
+    <dia>0</dia>
+    <mes>0</mes>
+    <anio>0</anio>
+    <unidad>Kg</unidad>
+    <nombre>Carne molida</nombre>
+  </Carnes>
+  <Carnes>
+    <cantidad>0.0</cantidad>
+    <dia>0</dia>
+    <mes>0</mes>
+    <anio>0</anio>
+    <unidad>Kg</unidad>
+    <nombre>Cuadril</nombre>
+  </Carnes>
+  <Carnes>
+    <cantidad>30.0</cantidad>
+    <dia>32</dia>
+    <mes>9</mes>
+    <anio>2022</anio>
+    <unidad>Kg</unidad>
+    <nombre>Muslo de pollo</nombre>
+  </Carnes>
+</Carne>

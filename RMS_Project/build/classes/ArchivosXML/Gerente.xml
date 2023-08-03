@@ -1,0 +1,14 @@
+<Gerente>
+  <Gerente>
+    <usuario>Jose</usuario>
+    <password>123</password>
+  </Gerente>
+  <Gerente>
+    <usuario>Gabriel</usuario>
+    <password>321</password>
+  </Gerente>
+  <Gerente>
+    <usuario>admin</usuario>
+    <password>456</password>
+  </Gerente>
+</Gerente>
